@@ -1,0 +1,158 @@
+{
+  "add_chef": "Add Chef",
+  "main_screen": {
+    "chefs": "Manage Chefs",
+    "waste": "Waste Monitoring",
+    "training": "Training",
+    "no_data": "No data found, please add some!"
+  },
+  "waste_screen": {
+    "title": "Waste Monitor",
+    "name": "Item Name",
+    "chef": "Chef Name",
+    "limit": "Allowed Limit %",
+    "reason": "Waste Reason",
+    "before": "Weight Before",
+    "after": "Weight After",
+    "date": "Date",
+    "btn": "Record Waste",
+    "activity": "Recent Activity",
+    "no_entries": "No records yet",
+    "error": "Please enter weights correctly",
+    "deleted": "Deleted"
+  },
+  "training_screen": {
+    "title": "Training Files",
+    "no_data": "No data found, please add some!",
+    "deleted": "Deleted",
+    "add_content": "Add Content",
+    "start": "Start adding your lessons"
+  },
+  "chef_details": {
+    "title": "Chef Details",
+    "admin": "ADMIN",
+    "view_only": "View Only",
+    "edit": "Edit",
+    "save": "Save all changes",
+    "success": "✅ Chef data updated successfully",
+    "error": "❌ Error saving data",
+    "cancel": "Cancel",
+    "update": "Update",
+    "not_registered": "Not registered",
+    "labels": {
+      "name": "Full Name",
+      "position": "Job Title",
+      "specialty": "Specialty",
+      "id": "National ID",
+      "address": "Current Address",
+      "phone": "Phone Number"
+    },
+    "kpi": {
+      "title": "Monthly Performance KPI",
+      "attendance": "Attendance & Commitment",
+      "food_safety": "Food Safety Standards",
+      "hygiene": "Hygiene",
+      "waste_control": "Waste Control",
+      "overall": "Overall Rating"
+    },
+    "view_only_mode": "View only - You do not have edit permissions",
+    "save_btn": "Save Changes",
+    "save_success": "Changes saved successfully",
+    "save_error": "Error saving changes: ",
+    "fields": {
+      "name": "Full Name",
+      "position": "Job Title",
+      "specialty": "Specialty",
+      "national_id": "National ID",
+      "address": "Address",
+      "phone": "Phone"
+    }
+  },
+  "nav_bar": {
+    "home": "Home",
+    "chat": "Chat",
+    "training": "Training",
+    "waste": "Waste"
+  },
+  "auth_modals": {
+    "phone_title": "Phone Login",
+    "phone_label": "Mobile Number",
+    "send_code": "Send Code",
+    "otp_title": "Enter Verification Code",
+    "cancel": "Cancel",
+    "confirm": "Confirm"
+  },
+  "login_screen": {
+    "title": "Login",
+    "email_label": "Email Address",
+    "password_label": "Password",
+    "email_error": "Enter your email",
+    "password_error": "Password is too short (min 6 chars)",
+    "login_btn": "Login",
+    "or_social": "Or login via",
+    "no_account": "Don't have an account?",
+    "register_btn": "Create Account"
+  },
+  "register_screen": {
+    "title": "Create New Account",
+    "chef": "Chef",
+    "admin": "Admin",
+    "success": "Account created successfully!",
+    "or": "Or register using"
+  },
+  "add_chef_fields": {
+    "title": "Add Chef",
+    "camera": "Camera",
+    "gallery": "Gallery",
+    "error_msg": "Please fill in the basic info",
+    "success_msg": "✅ Chef added successfully",
+    "save_error": "❌ Error while saving",
+    "personal_data": "Personal Data",
+    "fields": {
+      "name": "Chef Name",
+      "position": "Position",
+      "specialty": "Specialty",
+      "id": "National ID",
+      "address": "Address",
+      "phone": "Phone Number",
+      "secondary_phone": "Secondary Phone",
+      "save": "Save Chef Data"
+    }
+  },
+  "kpi_section": {
+    "title": "Monthly Performance KPI",
+    "attendance": "Attendance & Commitment",
+    "food_safety": "Food Safety Standards",
+    "hygiene": "Hygiene",
+    "waste_control": "Waste Control",
+    "overall": "Overall Rating",
+    "read_only": "Read Only"
+  },
+  "admin_register": {
+    "name": "Admin Name",
+    "name_error": "Name is required",
+    "email": "Admin Email",
+    "email_error": "Invalid email",
+    "password": "Password",
+    "pass_error": "Password is weak",
+    "confirm": "Confirm Password",
+    "confirm_error": "Passwords do not match",
+    "btn": "Create Admin Account"
+  },
+  "training_lesson_add": {
+    "title": "Add New Lesson",
+    "section_info": "Lesson Details",
+    "label_title": "Lesson Title",
+    "label_desc": "Description",
+    "label_type": "Content Type",
+    "type_video": "Video",
+    "type_pdf": "PDF File",
+    "hint_pick": "Click to upload {} from your device",
+    "msg_selected": "Selected: {}",
+    "snack_success": "File attached successfully ✅",
+    "snack_error": "Failed to pick file",
+    "snack_empty": "Please fill fields and select a file",
+    "btn_save": "Save Lesson"
+  },
+  "open_content": "Open {}"
+}

@@ -1,0 +1,160 @@
+{
+  "add_chef": "إضافة شيف",
+  "main_screen": {
+    "chefs": "إدارة الشيفات",
+    "waste": "مراقبة الهدر",
+    "training": "التدريب",
+    "no_data": "لا يوجد بيانات، برجاء الإضافة!"
+  },
+
+  "waste_screen": {
+    "title": "مراقب الهدر",
+    "name": "اسم الصنف",
+    "chef": "اسم الشيف",
+    "limit": "الحد المسموح %",
+    "reason": "سبب الهدر",
+    "before": "الوزن قبل",
+    "after": "الوزن بعد",
+    "date": "التاريخ",
+    "btn": "تسجيل الهدر",
+    "activity": "النشاط الأخير",
+    "no_entries": "لا توجد سجلات بعد",
+    "error": "برجاء إدخال الأوزان بشكل صحيح",
+    "deleted": "تم الحذف"
+  },
+  "training_screen": {
+    "title": "ملفات التدريب",
+    "no_data": "لا يوجد بيانات، برجاء الإضافة!",
+    "deleted": "تم الحذف",
+    "add_content": "إضافة محتوى",
+    "start": "ابدأ بإضافة دروسك"
+  },
+  "chef_details": {
+    "title": "بيانات الشيف",
+    "admin": "إدارة (ADMIN)",
+    "view_only": "عرض فقط",
+    "edit": "تعديل",
+    "save": "حفظ كافة التعديلات",
+    "success": "✅ تم تحديث بيانات الشيف بنجاح",
+    "error": "❌ خطأ في الحفظ",
+    "cancel": "إلغاء",
+    "update": "تحديث",
+    "not_registered": "غير مسجل",
+    "labels": {
+      "name": "الاسم بالكامل",
+      "position": "المسمى الوظيفي",
+      "specialty": "التخصص",
+      "id": "الرقم القومي",
+      "address": "العنوان الحالي",
+      "phone": "رقم الهاتف"
+    },
+    "kpi": {
+      "title": "تقييم الأداء الشهري (KPIs)",
+      "attendance": "الحضور والالتزام",
+      "food_safety": "معايير سلامة الغذاء",
+      "hygiene": "النظافة",
+      "waste_control": "التحكم في الهالك",
+      "overall": "التقييم العام"
+    },
+    "view_only_mode": "عرض فقط - لا تملك صلاحية التعديل",
+    "save_btn": "حفظ التعديلات",
+    "save_success": "تم حفظ التغييرات بنجاح",
+    "save_error": "خطأ أثناء حفظ التغييرات: ",
+    "fields": {
+      "name": "الاسم بالكامل",
+      "position": "المسمى الوظيفي",
+      "specialty": "التخصص",
+      "national_id": "الرقم القومي",
+      "address": "العنوان",
+      "phone": "الهاتف"
+    }
+  },
+  "nav_bar": {
+    "home": "الرئيسية",
+    "chat": "المحادثة",
+    "training": "التدريب",
+    "waste": "الهالك"
+  },
+  "auth_modals": {
+    "phone_title": "تسجيل دخول بالموبايل",
+    "phone_label": "رقم الموبايل",
+    "send_code": "إرسال الكود",
+    "otp_title": "أدخل كود التحقق",
+    "cancel": "إلغاء",
+    "confirm": "تأكيد"
+  },
+  "login_screen": {
+    "title": "تسجيل الدخول",
+    "email_label": "البريد الإلكتروني",
+    "password_label": "كلمة المرور",
+    "email_error": "أدخل البريد الإلكتروني",
+    "password_error": "كلمة المرور قصيرة جداً (6 أحرف على الأقل)",
+    "login_btn": "دخول",
+    "or_social": "أو سجل عبر",
+    "no_account": "ليس لديك حساب؟",
+    "register_btn": "إنشاء حساب"
+  },
+  "register_screen": {
+    "title": "إنشاء حساب جديد",
+    "chef": "شيف",
+    "admin": "مدير",
+    "success": "تم إنشاء الحساب بنجاح!",
+    "or": "أو سجل باستخدام"
+  },
+  "add_chef_fields": {
+    "title": "إضافة شيف",
+    "camera": "الكاميرا",
+    "gallery": "المعرض",
+    "error_msg": "يرجى ملء البيانات الأساسية",
+    "success_msg": "✅ تمت إضافة الشيف بنجاح",
+    "save_error": "❌ حدث خطأ أثناء الحفظ",
+    "personal_data": "البيانات الشخصية",
+    "fields": {
+      "name": "اسم الشيف",
+      "position": "المسمى الوظيفي",
+      "specialty": "التخصص",
+      "id": "الرقم القومي",
+      "address": "العنوان",
+      "phone": "رقم الهاتف",
+      "secondary_phone": "رقم هاتف إضافي",
+      "save": "حفظ بيانات الشيف"
+    }
+  },
+  "kpi_section": {
+    "title": "تقييم الأداء الشهري",
+    "attendance": "الحضور والالتزام",
+    "food_safety": "معايير سلامة الغذاء",
+    "hygiene": "النظافة",
+    "waste_control": "التحكم في الهالك",
+    "overall": "التقييم العام",
+    "read_only": "عرض فقط"
+  },
+  "admin_register": {
+    "name": "اسم المدير",
+    "name_error": "الاسم مطلوب",
+    "email": "بريد الإدارة",
+    "email_error": "بريد غير صحيح",
+    "password": "كلمة المرور",
+    "pass_error": "كلمة المرور ضعيفة",
+    "confirm": "تأكيد كلمة المرور",
+    "confirm_error": "غير متطابقة",
+    "btn": "إنشاء حساب مدير"
+  },
+  "training_lesson_add": {
+    "title": "إضافة درس جديد",
+    "section_info": "بيانات ومحتوى الدرس",
+    "label_title": "عنوان الدرس",
+    "label_desc": "الوصف",
+    "label_type": "نوع المحتوى",
+    "type_video": "فيديو",
+    "type_pdf": "ملف PDF",
+    "hint_pick": "اضغط لرفع ملف {} من جهازك",
+    "msg_selected": "تم اختيار: {}",
+    "snack_success": "تم إرفاق الملف بنجاح ✅",
+    "snack_error": "فشل في اختيار الملف",
+    "snack_empty": "برجاء ملء الحقول واختيار ملف",
+    "btn_save": "حفظ الدرس"
+  },
+
+  "open_content": "فتح {}"
+}
